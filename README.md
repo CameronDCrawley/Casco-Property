@@ -30,4 +30,7 @@ HTML5
 CSS3
 
 
+
+
+
 <img width="2834" height="1548" alt="image" src="https://github.com/user-attachments/assets/9cc4596a-bbf9-4c38-9221-35c94bd10f39" />
