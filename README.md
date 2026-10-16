@@ -22,7 +22,7 @@ Structure & Layout: Built using semantic HTML5 elements to maintain clean page a
 
 Styling Integration: Linked to an external stylesheet (css/style.css) for layout structuring, container grouping, and typography.
 
-Form Submissions: Uses interactive form elements (<textarea>, <select>, <option>, and <button>) to gather client property requests seamlessly.
+Form Submissions: Uses interactive form elements to gather client property requests seamlessly.
 
 ## Built With
 HTML5
