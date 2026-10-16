@@ -18,7 +18,7 @@ Interactive Quote Request Form: User-friendly form including fields for name, ph
 Professional Footer: Displays licensing & insurance details, service areas (Portland, South Portland, & Cape Elizabeth), and direct contact phone number ((207) 555-0142).
 
 ## How It Works
-Structure & Layout: Built using semantic HTML5 elements (<header>, <main>, <section>, <blockquote>, <footer>) to maintain clean page architecture.
+Structure & Layout: Built using semantic HTML5 elements to maintain clean page architecture.
 
 Styling Integration: Linked to an external stylesheet (css/style.css) for layout structuring, container grouping, and typography.
 
